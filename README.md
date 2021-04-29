@@ -10,6 +10,8 @@ Warning: skies are as limited in rendering as ViewportFrames, so stuff like ligh
 # How to use
 ### Note, you must have basic knowledge in modulescripts and scripting in general.
 Sorry if this documentation is bad, I wrote it in about 20 minutes since I need to do school stuff. You can make a PR if you want to improve this though.
+
+This will be rewritten soon.
 ## Installation
 To use this, you must install the module first by downloading it from the [releases](https://github.com/devinkid1/Sky3D/releases).
 After you do that, put it somewhere in ReplicatedStorage.
