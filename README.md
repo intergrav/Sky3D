@@ -15,7 +15,7 @@ After you do that, put it somewhere in ReplicatedStorage.
 ## Creating a sky
 Make a small model of what your sky will be like (it is recommended to make it small for performance reasons, but you CAN make it normal sized).
 
-Make sure it is at the camera origin you want to set.
+Make sure it is at the camera origin (default 0, 0, 0) you want to set.
 
 ![image](https://user-images.githubusercontent.com/42325132/116599975-c24a4300-a8f6-11eb-8ca3-83eaaaa4773d.png)
 
