@@ -65,7 +65,7 @@ Stuff marked with `read-only` means you should NOT change it.
 | Name | Type | Description |
 | ---- | ---- | ----------- |
 | Destroyed | bool `read-only` | If the sky was destroyed. Use the :Destroy() method for changing this. |
-| Active | bool | If the sky is active. |
+| Active | bool | If the sky is active. If set to false, then the sky will not render. |
 | GuiDistance | number | How far the gui is from the player. Increase if sky clips through the ground too much. |
 | SkyLayer | number | The layer of the sky over other skies. Higher value means sky layer is closer to the camera. |
 | WorldScale | number | How big the world is compared to the sky. Lower value means bigger sky. Decrease of sky is too small. |
