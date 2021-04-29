@@ -68,7 +68,7 @@ Stuff marked with `read-only` means you should NOT change it.
 | Active | bool | If the sky is active. If set to false, then the sky will not render. |
 | GuiDistance | number | How far the gui is from the player. Increase if sky clips through the ground too much. |
 | SkyLayer | number | The layer of the sky over other skies. Higher value means sky layer is closer to the camera. |
-| WorldScale | number | How big the world is compared to the sky. Lower value means bigger sky. Decrease of sky is too small. |
+| WorldScale | number | How big the world is compared to the sky. Lower value means bigger sky. Decrease if sky is too small. |
 | CameraOrigin | Vector3 | Position of the camera relative to the real camera. If you built your sky model high up or something, change this to the origin of that area. |
 | AutoLighting | bool | Sky3D has a system where the sky will have the same lighting as the real world. If you do not want this, just set to false. |
 | ViewportFrame | instance `read-only` | ViewportFrame that the sky uses. This is auto generated when you create the sky. |
